@@ -1,4 +1,5 @@
-# «Intro to Java Platform and language».
+﻿# «Intro to Java Platform and language».
+#Tatyana Dubravina
 30 hrs.
 Training for QAs who deals with working Java Apps to help them better and faster solve typical Java understanding mismatches and build-time issues.
 This training is prerequisite for any other Java-aware training.
