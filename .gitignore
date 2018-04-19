@@ -1,4 +1,7 @@
 target
+.idea
+flipcharts
+*.iml
 
 .DS_Store
 
