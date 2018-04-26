@@ -16,9 +16,13 @@ public class LoggerController
      */
     public void log(String message) {
         if (filter.MessageFiltered(message)){
-            saver.save(formatter.formateMessage(message));
+            handle(message);
         }
 
 
+    }
+
+    private void handle(String message) {
+        saver.save(formatter.formateMessage(message));
     }
 }
